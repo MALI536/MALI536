@@ -3,18 +3,18 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+SalmanMalik!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Muhammad ALi!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Muhammad ALI</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman7292&label=Profile%20views&color=0e75b6&style=flat" alt="salman7292" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MALI536&label=Profile%20views&color=0e75b6&style=flat" alt="MALI536" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman7292" alt="salman7292" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="MALI536" /></a> </p>MALI536
 
 
 <H1>About Me:</H1>  
@@ -69,7 +69,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
  ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=salman7292&" alt="salman7292">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=MALI536&" alt="MALI536">
 </p>
 
 
@@ -77,5 +77,5 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman7292&show_icons=true&locale=en&layout=compact" alt="salman7292">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=MALI536&show_icons=true&locale=en&layout=compact" alt="MALI536">
 </p>

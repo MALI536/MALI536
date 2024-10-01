@@ -3,11 +3,12 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Muhammad ALi!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+SalmanMalik!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Muhammad ALI</h1>
+<h1 align="center">Hi 👋, I'm Salman Malik</h1>
+
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MALI536&label=Profile%20views&color=0e75b6&style=flat" alt="MALI536" /> </p>

@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Salman Malik</h1>
+<h1 align="center">Hi 👋, I'm Muhammad ALI</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman7292&label=Profile%20views&color=0e75b6&style=flat" alt="salman7292" /> </p>
@@ -26,7 +26,7 @@
 
 - 💬 Ask me about *Python Programming ,Api Integration,ML Models*
 
-- 📫 How to reach me *Salmanuom04@gmail.com*
+- 📫 How to reach me *iamalikhanak3@gmail.com*
 
    
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
@@ -36,10 +36,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-036b27284/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014422202716)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salmanbunery230/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnwithsalaman)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-a2b6a9265/)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
 

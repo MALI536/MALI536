@@ -1,5 +1,5 @@
 
-[![MasterHead](Red and black Fashion Sale Facebook Cover (1).png)](https://your-link-here)
+![MasterHead]Red and black Fashion Sale Facebook Cover (1).png)
 
 <h1 align="center">
   <a href="#">

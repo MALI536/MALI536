@@ -3,11 +3,11 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+SalmanMalik!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+MuhammadAli!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Salman Malik</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
